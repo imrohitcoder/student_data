@@ -1,0 +1,43 @@
+const StudentData = [
+  {
+    name: "Rohit kumar",
+    username: "rohitkumar123",
+    lastActive: "2023-10-01",
+    dateRegistered: "2022-03-15",
+    email: "rohit@example.com",
+    orders: 20,
+    totalSpend: 1500,
+    AOV: 75,
+    country: "India",
+    regionCity: "Ranchi",
+    postalCode: "834001",
+  },
+  {
+    name: "Akshay kumar",
+    username: "akshaykumar123",
+    lastActive: "2023-09-28",
+    dateRegistered: "2021-11-10",
+    email: "akshay@example.com",
+    orders: 15,
+    totalSpend: 1200,
+    AOV: 80,
+    country: "India",
+    regionCity: "Ranchi",
+    postalCode: "834001",
+  },
+  {
+    name: "Mantu kumar",
+    username: "mantu123",
+    lastActive: "2023-10-02",
+    dateRegistered: "2020-05-20",
+    email: "mantu@example.com",
+    orders: 25,
+    totalSpend: 1800,
+    AOV: 72,
+    country: "India",
+    regionCity: "Giridih",
+    postalCode: "825167",
+  },
+];
+
+export default StudentData;
